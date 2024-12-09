@@ -1,0 +1,3 @@
+# Scala Auxiliary Constructor Issue
+
+This repository demonstrates an unexpected behavior encountered when using auxiliary constructors in Scala.  The provided code snippet shows a simple class with an auxiliary constructor. This example may appear to work correctly initially, but it can lead to issues under certain conditions, such as when interacting with other parts of the program or in more complex scenarios involving inheritance and polymorphism.
